@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+body{
+    width: 960px;
+    color: #777777;
+}
+
+}
+.heading{
+    background-color: #ffffff;
+    border: solid 2px #cccccc;
+}
+
+.main-content {
+    background-color: #ffffff;
+    border: solid 2px #dddddd;
+}
+header {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4aaaa5;
+
+}
+
+footer {
+    background-color: #666666;
+    border-top: #4aaaa5 solid 3px;
+}
