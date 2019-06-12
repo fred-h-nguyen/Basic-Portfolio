@@ -8,7 +8,6 @@ body{
     color: #777777;
 }
 
-}
 .heading{
     background-color: #ffffff;
     border: solid 2px #cccccc;
@@ -58,7 +57,7 @@ footer {
     border-top: #4aaaa5 solid 3px;
 }
 
-.clearfix::after{
+.clearfix::after {
     content: "";
     display: block;
     clear: both;
