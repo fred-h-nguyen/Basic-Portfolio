@@ -6,11 +6,13 @@
 body{
     width: 960px;
     color: #777777;
+    background-image: url(../images/background.png);
 }
 
 .heading {
     background-color: #ffffff;
     border: solid 2px #cccccc;
+    overflow: auto;
 }
 
 .main-content {
