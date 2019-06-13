@@ -31,17 +31,18 @@ header {
     color: #ffffff;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 25px;
-    font-weight: bolder;
+    font-weight: bold;
+    text-align: center;
     padding: 15px;
     float: left;
-    width: 30%;
+    width: 25%;
 }
 
 nav {
     padding: 15px;
     text-align: end;
     float:right;
-    width: 70%;
+    width: 75%;
 }
 
 h1 {
