@@ -7,9 +7,7 @@ body{
     width: 960px;
     color: #777777;
     background-image: url(../images/background.png);
-    display: flexbox;
-    flex-direction: column;
-    height: 100%;
+   
 }
 
 .heading {
@@ -67,6 +65,12 @@ footer {
     content: "";
     display: block;
     clear: both;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
 }
 
 .topcontent{
